@@ -8,3 +8,4 @@ https://nextjs.org/docs/basic-features/typescript (esto a mi no me rulaba por lo
 SASS:
 
 https://nextjs.org/docs/basic-features/built-in-css-support
+https://stackoverflow.com/questions/61741463/how-to-use-sass-and-css-on-next-js -> Aqui habla de global styles, que se incluyen en _app.js. No se si es correcto.
