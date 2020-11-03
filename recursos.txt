@@ -1,0 +1,10 @@
+Webs que he utilizado para crear esto, por si te da problemas algo y le quieres echar un vistazo: 
+
+Creacion y configuracion del typescript: 
+
+https://nextjs.org/docs 
+https://nextjs.org/docs/basic-features/typescript (esto a mi no me rulaba por lo que recurrí al stackoverflow -> https://stackoverflow.com/questions/36916989/how-can-i-generate-a-tsconfig-json-file) 
+
+SASS:
+
+https://nextjs.org/docs/basic-features/built-in-css-support
